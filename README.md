@@ -1,31 +1,37 @@
+---
+
 # Project Highlights
+
+The following figures summarize key findings and recommendations from the enterprise cybersecurity strategy.
 
 ## Executive Summary
 
-The cybersecurity strategy identifies phishing and ransomware as FedCore Technologies' highest financial risks and recommends adopting the NIST Cybersecurity Framework (CSF) 2.0 alongside a risk-based cybersecurity investment strategy.
+The executive summary provides senior leadership with a high-level overview of FedCore Technologies' cybersecurity posture, the highest-priority risks, recommended strategic initiatives, and the proposed FY26 cybersecurity investment.
 
-![](images/executive-summary.png)
+![Executive Summary](executive-summary.png)
 
 ---
 
 ## Enterprise Risk Assessment
 
-Cybersecurity risks were prioritized using Annual Loss Expectancy (ALE). Phishing and ransomware represent the organization's largest financial exposures and directly influenced strategic priorities and budget allocation.
+A quantitative risk assessment was performed using **Annual Loss Expectancy (ALE)** to identify the organization's highest financial risks. The analysis determined that phishing and ransomware represent the greatest threats, guiding both strategic priorities and budget allocation.
 
-![](images/risk-landscape.png)
-
----
-
-## Security Investment Plan
-
-A proposed FY26 cybersecurity budget allocates $35,000 across key security controls including Multi-Factor Authentication (MFA), Endpoint Detection & Response (EDR), Backup & Disaster Recovery, Security Awareness Training, and an Email Security Gateway.
-
-![](images/security-budget.png)
+![Risk Landscape](risk-landscape.png)
 
 ---
 
-## Measuring Success
+## FY26 Cybersecurity Investment Plan
 
-The cybersecurity strategy defines measurable Key Performance Indicators (KPIs) to evaluate the effectiveness of the security program, including phishing resilience, MFA adoption, Mean Time to Detect (MTTD), Mean Time to Respond (MTTR), vulnerability remediation, and CMMC compliance.
+The proposed **$35,000 annual cybersecurity budget** prioritizes investments that directly reduce the organization's highest-ranked risks. Funding supports Multi-Factor Authentication (MFA), Endpoint Detection & Response (EDR), Backup & Disaster Recovery, Email Security, and Security Awareness Training.
 
-![](images/kpi-dashboard.png)
+![Security Budget](security-budget.png)
+
+---
+
+## Cybersecurity Performance Metrics
+
+Key Performance Indicators (KPIs) were developed to measure the effectiveness of the cybersecurity program. These metrics include phishing resilience, security awareness completion, MFA adoption, Mean Time to Detect (MTTD), Mean Time to Respond (MTTR), vulnerability remediation, and CMMC compliance.
+
+![Security Metrics](kpi-dashboard.png)
+
+---
