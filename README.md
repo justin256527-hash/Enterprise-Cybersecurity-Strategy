@@ -1,5 +1,3 @@
-# Enterprise-Cybersecurity-Strategy
-
 # Enterprise Cybersecurity Strategy
 
 ## Overview
