@@ -1,12 +1,10 @@
----
-
 # Project Highlights
 
-The following figures summarize key findings and recommendations from the enterprise cybersecurity strategy.
+The following figures summarize the key findings and recommendations from the enterprise cybersecurity strategy.
 
 ## Executive Summary
 
-The executive summary provides senior leadership with a high-level overview of FedCore Technologies' cybersecurity posture, the highest-priority risks, recommended strategic initiatives, and the proposed FY26 cybersecurity investment.
+The executive summary provides senior leadership with a high-level overview of FedCore Technologies' cybersecurity posture, highest-priority risks, recommended initiatives, and proposed FY26 cybersecurity investment.
 
 ![Executive Summary](executive-summary.png)
 
@@ -14,15 +12,15 @@ The executive summary provides senior leadership with a high-level overview of F
 
 ## Enterprise Risk Assessment
 
-A quantitative risk assessment was performed using **Annual Loss Expectancy (ALE)** to identify the organization's highest financial risks. The analysis determined that phishing and ransomware represent the greatest threats, guiding both strategic priorities and budget allocation.
+A quantitative risk assessment was conducted using Annual Loss Expectancy (ALE) to identify the organization's highest financial risks. Phishing and ransomware represent the greatest financial exposures and guided both strategic priorities and budget allocation.
 
 ![Risk Landscape](risk-landscape.png)
 
 ---
 
-## FY26 Cybersecurity Investment Plan
+## Security Investment Plan
 
-The proposed **$35,000 annual cybersecurity budget** prioritizes investments that directly reduce the organization's highest-ranked risks. Funding supports Multi-Factor Authentication (MFA), Endpoint Detection & Response (EDR), Backup & Disaster Recovery, Email Security, and Security Awareness Training.
+The proposed FY26 cybersecurity budget allocates **$35,000** across key security initiatives including Multi-Factor Authentication (MFA), Endpoint Detection & Response (EDR), Backup & Disaster Recovery, Email Security, and Security Awareness Training.
 
 ![Security Budget](security-budget.png)
 
@@ -30,8 +28,8 @@ The proposed **$35,000 annual cybersecurity budget** prioritizes investments tha
 
 ## Cybersecurity Performance Metrics
 
-Key Performance Indicators (KPIs) were developed to measure the effectiveness of the cybersecurity program. These metrics include phishing resilience, security awareness completion, MFA adoption, Mean Time to Detect (MTTD), Mean Time to Respond (MTTR), vulnerability remediation, and CMMC compliance.
+Key Performance Indicators (KPIs) were established to measure the effectiveness of the cybersecurity program, including phishing resilience, MFA adoption, Mean Time to Detect (MTTD), Mean Time to Respond (MTTR), vulnerability remediation, and compliance readiness.
 
-![Security Metrics](kpi-dashboard.png)
+![KPI Dashboard](kpi.png)
 
 ---
